@@ -1,0 +1,31 @@
+import qrcode
+
+def generate_qr_code(data, file_name='qrcode.png'):
+    # Erstelle ein QR-Code-Objekt
+    qr = qrcode.QRCode(
+        version=1,  # Version des QR-Codes (1 bis 40, höher bedeutet komplexeren Code)
+        error_correction=qrcode.constants.ERROR_CORRECT_L,  # Fehlerkorrekturlevel L: 7%
+        box_size=10,  # Größe jedes Kästchens im QR-Code
+        border=4,  # Breite des Randes um den QR-Code
+    )
+
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+
+    # Dateiname für das QR-Code-Image (Standard: qrcode.png)
+    file_name = input("Geben Sie den Dateinamen für das QR-Code-Image ein (Standard: qrcode.png): ") or 'qrcode.png'
+
+    # Generiere den QR-Code
+    generate_qr_code(data, file_name)
