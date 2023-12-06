@@ -23,9 +23,3 @@ def generate_qr_code(data, file_name='qrcode.png'):
 if __name__ == "__main__":
     # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
     data = input("Geben Sie die Daten für den QR-Code ein: ")
-
-    # Dateiname für das QR-Code-Image (Standard: qrcode.png)
-    file_name = input("Geben Sie den Dateinamen für das QR-Code-Image ein (Standard: qrcode.png): ") or 'qrcode.png'
-
-    # Generiere den QR-Code
-    generate_qr_code(data, file_name)
