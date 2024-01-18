@@ -23,3 +23,1837 @@ def generate_qr_code(data, file_name='qrcode.png'):
 if __name__ == "__main__":
     # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
     data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
+    # Füge die Daten zum QR-Code hinzu
+    qr.add_data(data)
+    qr.make(fit=True)
+
+    # Erzeuge ein QR-Code-Image
+    img = qr.make_image(fill_color="black", back_color="white")
+
+    # Speichere das QR-Code-Image als Bilddatei
+    img.save(file_name)
+    print(f"QR-Code erfolgreich als {file_name} gespeichert.")
+
+if __name__ == "__main__":
+    # Benutzer wird aufgefordert, die Daten für den QR-Code einzugeben
+    data = input("Geben Sie die Daten für den QR-Code ein: ")
