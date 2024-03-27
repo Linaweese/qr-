@@ -7,16 +7,7 @@ def generate_qr_code(data, file_name='qrcode.png'):
         error_correction=qrcode.constants.ERROR_CORRECT_L,  # Fehlerkorrekturlevel L: 7%
         box_size=10,  # Größe jedes Kästchens im QR-Code
         border=4,  # Breite des Randes um den QR-Code
-    )
-
-    # Füge die Daten zum QR-Code hinzu
-    qr.add_data(data)
-    qr.make(fit=True)
-
-    # Erzeuge ein QR-Code-Image
-    img = qr.make_image(fill_color="black", back_color="white")
-
-    # Speichere das QR-Code-Image als Bilddatei
+    
     img.save(file_name)
     print(f"QR-Code erfolgreich als {file_name} gespeichert.")
 
