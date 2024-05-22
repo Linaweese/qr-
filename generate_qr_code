@@ -6,14 +6,6 @@ def generate_qr_code(data, file_name='qrcode.png'):
     img.save(file_name)
     print(f"QR-Code erfolgreich als {file_name} gespeichert.")
 
-if __name__
-    qr.make(fit=True)
-
-    # Erzeuge ein QR-Code-Image
-    img = qr.make_image(fill_color="black", back_color="white")
-
-    # Speichere das QR-Code-Image als Bilddatei
-    img.save(file_name)
     print(f"QR-Code erfolgreich als {file_name} gespeichert.")
 
 if __name__ == "__main__":
